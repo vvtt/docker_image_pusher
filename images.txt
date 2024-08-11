@@ -1,1 +1,2 @@
 nginx
+docker pull mysql:8.4.2
