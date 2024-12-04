@@ -1,2 +1,1 @@
-nginx
-mysql:8.4.2
+python:3.13.0
