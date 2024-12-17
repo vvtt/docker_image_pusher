@@ -1,1 +1,1 @@
-centos:7
+centos:centos7
