@@ -1,2 +1,1 @@
-langgenius/dify-api:1.0.0-beta.1
-langgenius/dify-web:1.0.0-beta.1
+langgenius/dify-plugin-daemon:0.0.1-local
